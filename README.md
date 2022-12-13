@@ -5,4 +5,8 @@ We present a unified probabilistic gradient boosting framework for regression ta
 :construction: Repo is under construction
 
 ## Reference Paper
-März, A. and Kneib, T. (2022) [*"Distributional Gradient Boosting Machines"*](https://arxiv.org/abs/2204.00778).
+[![Arxiv link](https://img.shields.io/badge/arXiv-Distributional%20Gradient%20Boosting%20Machines-%09%23FF0000)](https://arxiv.org/abs/2204.00778) <br/>
+
+<!---
+März, A. and Kneib, T. (2022) [*"Distributional Gradient Boosting Machines"*](https://arxiv.org/abs/2204.00778). <br/> 
+--->
